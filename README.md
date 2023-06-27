@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-  <img align="center" alt="Cesar-androidstudio" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Cesar-ReactNative" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </p>
 
-> 🌱👨‍💻 - I studied Flutter and what it is for, I learned to install Android Studio, I learned to install Flutter, created my first project, I understood what Widgets are, how to categorize and manipulate them, understood what Stateless and Stateful Widgets are and their differences, learned how to add Images and Animated Widgets in my project and the importance of Refactoring in my project. I created this project using the Alura course.
+> 🌱👨‍💻 - I set up a lightweight and simple development environment using Expo, developed and ran applications for Android and even iOS, using Linux, Windows or macOS, created a React Native project from scratch, learned how to display texts, images and buttons, using it to create own components using it, styled it using CSS-like concepts, tailored the layout for different screen types and sizes, installed external fonts from Google Fonts, learned how to optimize list performance. I created this project using the Alura course.
 
 ## Download
 
